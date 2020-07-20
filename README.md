@@ -1,4 +1,4 @@
-## Hello, World!
+## Hello, World! 🙂
 
 > <p>I am Sameer Sengar, a computer science engineer. I do work on software development, infrastructure architecture and some other things, based on the time of day and the phase of the moon.</p>
 
