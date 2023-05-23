@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MEVN and MERN.
 - 🌱 I’m currently learning Data Science.
-- 💬 Ask me about NodeJs and MongoDB.
+- 💬 Ask me about NodeJs, AWS, React, PgSQL and MongoDB.
 - 📫 How to reach me: sengarsameer@gmail.com
 - 👨‍💼 LinkedIn - [/in/sengarsameer](https://www.linkedin.com/in/sengarsameer/)
 - 🐦 Twitter - [@sengarsameer7](https://mobile.twitter.com/sengarsameer7)
